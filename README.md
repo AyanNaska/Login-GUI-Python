@@ -1,4 +1,4 @@
-# Login GUI using PySide 6
+# Login GUI Python (PySide 6)
 
 This is a simple login graphical user interface (GUI) application built with Python and PySide 6. It allows users to enter their username and password, and upon successful authentication, it provides access to the main application.
 
