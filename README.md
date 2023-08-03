@@ -25,10 +25,6 @@ You can install PySide 6 using pip:
 
 Feel free to customize the application to suit your needs. You can modify the design, add more features, or integrate it with a backend authentication system.
 
-## Contribution
-
-Contributions to this project are welcome! If you find any bugs or have ideas for improvements, please submit an issue or a pull request.
-
 ## Demo
 
 ![Screenshot (424)](https://github.com/AyanNaska/-EM-Wave-Behaviour-Digital-Twin/assets/113054786/26adb7a2-57b2-4178-b340-520aca237c99)
